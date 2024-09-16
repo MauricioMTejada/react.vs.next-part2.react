@@ -6,7 +6,7 @@ function App() {
   return (
     <BrowserRouter>
       <h1>
-        <Link to="/">Mi Blog React</Link>
+        <Link to="/">React vs. NextJS - Part 2: React</Link>
       </h1>
       <Routes>
         <Route path="/" element={<Home />} />
